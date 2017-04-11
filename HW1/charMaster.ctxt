@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=java.lang.String\ char2str(char[])
+comment0.text=\n\ Method\ char2str\n\n\ @param\ x\ -\ a\ char[]\ to\ be\ converted\ to\ a\ String\n\ @return\ temp\ -\ String\ that\ has\ been\ converted\ from\ x[]\n
+comment1.params=x
+comment1.target=char[]\ str2char(java.lang.String)
+comment1.text=\n\ Method\ str2char\n\n\ @param\ x\ -\ a\ string\ to\ be\ converted\ to\ a\ char[]\n\ @return\ tempArray\ -\ a\ char[]\ filled\ with\ String\ x\n
+comment2.params=x
+comment2.target=char[]\ reverse(char[])
+comment2.text=\n\ Method\ reverse\n\n\ @param\ x\ char\ array\ to\ be\ reversed\n\ @return\ t\ x[]\ in\ reverse\ order\n
+comment3.params=c\ x
+comment3.target=int\ count(char,\ char[])
+comment3.text=\n\ Method\ count\n\ \n\ @param\ c\ char\ being\ compared\n\ @param\ x\ char\ array\ being\ checked\ against\n\ @return\ the\ number\ of\ times\ character\ c\ appears\ in\ \n\ the\ array\ of\ characters\ x\n
+comment4.params=x
+comment4.target=char[]\ clone(char[])
+comment4.text=\n\ Method\ clone\n\ returns\ a\ clone\ of\ x[]\n\ @param\ x\ a\ char[]\n\ @return\ x\n
+comment5.params=x\ y
+comment5.target=boolean\ equals(char[],\ char[])
+comment5.text=\n\ Method\ equals\n\n\ @param\ x\ char[]\n\ @param\ y\ char[]\n\ @return\ TRUE\ if\ x[]\ \=\=\ y[]\n
+numComments=6
